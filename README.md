@@ -14,5 +14,5 @@ CCNA in progress | Python for network automation | Always learning
 - Advanced TCP/IP and network security  
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/kevin-reed8787)
+[LinkedIn](https://www.linkedin.com/in/kevin-reed8787) | [Portfolio/Projects](#)
 
